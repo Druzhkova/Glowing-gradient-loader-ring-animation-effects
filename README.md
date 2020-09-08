@@ -1,3 +1,3 @@
-# Glowing Gradient Loader Ring Animation Effects
+# Glowing gradient loader ring animation effects
 
-<a href='https://viktoriya-druzhkova.github.io/Glowing_Gradient_Loader_Ring_Animation_Effects/'>Watch here - glowing gradient loader ring animation effects</a>
+<a href='https://druzhkova.github.io/Glowing-gradient-loader-ring-animation-effects/'>Watch here</a>
